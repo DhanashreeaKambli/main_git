@@ -1,0 +1,2220 @@
+ body
+{
+font-family: Poppins ;
+margin: 0;
+padding: 0;
+overflow-x: hidden;
+
+}
+html
+{
+	scroll_behavior: smooth;
+}
+.navibar
+{
+	padding: 30px 0  30px 0;
+}
+.navibar a
+{
+	text-decoration: none;
+	color: #444444;
+	font-weight: bold;
+	font-size: 13px;
+
+}
+.navbar-nav
+{
+	margin-left:180px;
+}
+.navbar-nav li
+{
+	padding: 0 15px 0 15px;
+}
+
+.navibar a:hover
+{
+	color: #8bc34a;
+}
+.navibar .active
+{
+	color: #8bc34a;
+}
+.subwebname
+{
+	font-size:22px;
+	margin: 0 5px;
+}
+.webname
+{
+	font-size:60px;
+	font-weight: bold;
+}
+.webptag
+{
+	margin:10px 0 55px;
+}
+.textdecore, p
+{
+	font-size:16px;
+	line-height: 1.5;
+}
+
+.carousel-inner img
+	{
+		width: 100%;
+		height: 850px;
+    }
+.slidebg .content
+{
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  height: 100%;
+  padding-top: 250px;
+}
+.textdecore
+{
+
+
+}
+.button1
+{
+  background-color: white;
+  font-size: 14px;
+  color: #a6d07b ;
+  padding:10px;
+  border-radius: 25px;
+  width:200px;
+  margin-left: 15px;
+  margin-right: 15px;
+  border: 1px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+.aboutcon
+{
+	background: white;
+	padding: 50px 0 50px 0;
+}
+.aboutcol
+{
+	padding: 10px;
+}
+.ptag
+{
+	color: #808080;
+	font-size: 14px;
+}
+.conwedo
+{
+  border:1px solid #ededed;
+  background: #fafafa;
+  padding: 75px 0 100px 0;
+}
+.margin1
+{
+	margin: 0 0 75px;
+}
+.imgicon
+{
+	margin: 0 0 25px;
+}
+.infohead
+{
+	color: #444444;
+	font-size: 18px;
+}
+.titlemain
+{
+	font-size:32px;
+	font-weight:bolder;
+	margin-top: -19px ;
+}
+.titlesub
+{
+	font-size:12px;
+	color: #808080;
+}
+
+.imgA1
+	{
+		position:absolute;
+        top: 30px;
+        left: 30px;
+	}
+	.imgB1
+	{
+		position:absolute;
+		top: 170px;
+		left: 240px;
+		z-index: 3;
+	}
+.conwork
+{
+	background: white;
+	padding:75px 0 100px 0;
+}
+.paddinggallery
+{
+	padding: 40px 0 0 0;
+}
+.galleryimg:hover
+{
+	background:#4cad4f;
+}
+.rowgallery
+{
+
+}
+
+.rowgallery a:hover
+{
+	color: #8bc34a;
+}
+
+.hr
+{
+	width: 70px ;
+}
+.hr1
+{
+    height: 3px;
+	width: 50px ;
+    background: #8bc34a;
+	margin-top: -19px ;
+	border-radius: 25px;
+}
+.linewedo
+{
+	width: 30px ;
+	margin-left:0;
+	background-color: #808080;
+}
+
+.conlogo
+{
+	border:1px solid #ededed;
+	background: #fafafa;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.colsize
+{
+	width: 20%;
+	padding: 10px;
+}
+.footercon
+{
+	background-color:#262626;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	color:#6b6b6b;
+}
+
+.fcol
+{
+	background-color: #1c1c1c;
+	padding:10px;
+	color:#6b6b6b;
+}
+.coninfo
+{
+	padding-top: ;
+	border-top: 1px solid #ededed;
+	border-bottom: 1px solid #ededed;
+	padding-bottom: ;
+}
+.coninfo1
+{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: #f7f7f7;
+}
+.rowinfo
+{
+	padding: 75px 0 150px 0;
+}
+.coninfo1
+{
+
+}
+.pinfo
+{
+	color: #444444;
+	font-size: 30px;
+	font-weight: bold;
+}
+.colbox
+{
+	width: 33.33%;
+	font-size:20px;
+	font-weight: bold;
+}
+
+
+
+.contheme
+{
+	background: #282828;
+    padding-top: 100px;
+	padding-bottom: 100px;
+	color: white;
+	border-bottom: 5px solid #87bd4a;
+
+}
+.conthemep
+{
+	font-size: 30px;
+	font-weight: bold;
+}
+.h3line
+{
+	padding-top: 15px;
+	padding-bottom: 15px;
+
+	background-color: green;
+	max-width: 600px;
+	text-align: center;
+}
+.line
+{
+	height: 3px solid green;
+}
+.btwntext
+{
+
+	width:550px;
+	font-size: 18px;
+	border-radius: 25px;
+	color:white;
+	margin-top: -10px ;
+	margin-left: 35%;
+}
+
+
+.tag-a {
+            background: linear-gradient(to top, white 50%, transparent 50%);
+            background-size: 100% 200%;
+            background-position: top;
+            transition: background-position 0.5s ease-in-out;
+            color: white;
+			background-color: #87bd4a;
+			width: 550px;
+			font-size: 18px;
+	        border-radius: 25px;
+
+			padding: 15px 80px 15px 80px;
+        }
+
+        .tag-a:hover {
+            background-position: bottom;
+			color:black;
+			 border: 2px solid #87bd4a;
+			 text-decoration:  none;
+
+        }
+
+
+.conteam
+{
+	 padding: 75px 0 50px 0;
+
+}
+.member
+{
+	font-size: 24px
+}
+.rowteam
+{
+	 padding: 60px 0 50px 0;
+}
+
+.teambox1
+{
+	background-color: #464646;
+	color: white;
+	padding-top: 50px;
+
+}
+.teambox2
+{
+	background-color: #87bd4a;
+
+	padding-top:10px;
+	padding-bottom: 10px;
+	font-size: 18px;
+
+}
+.teambox2 .fa
+{
+	color: white;
+}
+
+
+.team-profile
+{
+	background: #464646;
+	padding-top:50px;
+	color: white;
+}
+.team-name
+{
+	font-size: 21px;
+
+}
+.team-post
+{
+	font-size:13px;
+	margin-top: -15px;
+}
+.team-info
+{
+	font-size:13px;
+	padding: 10px;
+	margin: 0 0 40px;
+}
+.member-social
+   {
+    background: #87bd4a;
+	}
+.member-social .fa{
+	color: white;
+	padding: 20px 5px;
+	font-size: 18px;
+
+}
+
+.member-social .fa:hover {
+	color: white;
+}
+
+
+
+.blogrow
+{
+	padding: 50px 0 100px 0;
+
+}
+
+
+
+
+
+
+/* Style tab links */
+.tablink
+{
+  background-color: white;
+  color: black;
+
+  cursor: pointer;
+  width:33.33%;
+}
+
+.tablink .a{
+
+	text-decoration: none;
+}
+.tablink .pack{
+	padding: 10px 0 10px 0;
+	font-size: 18px;
+	color: #565656;
+		font-weight: ;
+}
+.tablink a:hover
+{
+	color: #565656;
+}
+.tablink .active
+{
+	 background-color: #f7f7f7;
+	 border-bottom: 2px solid #8bc34a;
+
+}
+
+
+
+
+
+.navigation
+{
+	display: block;
+	margin: 30px ;
+
+}
+.navigation li a
+{
+	color: #575757;
+	font-weight: ;
+	text-decoration: none;
+	padding:0 5px;
+	font-size: 14px;
+}
+.navigation li
+{
+	list-style: none;
+	display: inline-block;
+	position: relative;
+}
+.navigation  li::before
+{
+	content: "";
+	position: absolute;
+	right: -2px;
+	top: 20%;
+	width: 1px;
+	height: 70%;
+	background: black;
+}
+.navigation li:nth-child(6)::before
+{
+    width: 0;
+}
+.navigation .a:hover
+{
+	color:  #8bc34a;
+}
+
+.navigation .active
+{
+	color:  #8bc34a;
+
+}
+
+	.confluid .col1
+	{
+		width: 25%;
+		background-color: #303030;
+		padding:120px 0 100px 0;
+		padding-right: 50px;
+	}
+	.confluid .col2
+	{
+		background-color: #262626;
+		padding: 100px 0 100px 0;
+		padding-left: 25px;
+
+	}
+	.footerimg
+{
+	margin-bottom: 35px;
+}
+
+	.ftitle
+	{
+		color: #6b6b6b;
+		font-size: 18px;
+		font-weight: bold;
+		margin-top: -19px ;
+	}
+
+.inputicon {
+  position: relative;
+}
+
+
+.inputicon i {
+  position: absolute;
+  right: 0;
+top: -5px;
+padding: 11px 20px;
+  color: #575757;
+
+}
+.pblog
+{
+	background-color:#e6e6e6 ;
+	text-align: left;
+}
+.pby
+{
+ margin-top: -15px ;
+}
+.pby2
+{
+ margin-top: -15px ;
+}
+.phead
+{
+	color:#444444 ;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 40px 0 0 0;
+}
+.phead2
+{
+	color:#444444 ;
+	font-size: 16px;
+	font-weight: bold;
+}
+.message_box {
+
+    width: 100%;
+  border: 2px solid #575757;
+  border-radius: 25px;
+  margin: 8px 0;
+  outline: none;
+  padding: 8px;
+  box-sizing: border-box;
+  transition: 0.3s;
+   background-color: #262626;
+}
+
+.fa-paper-plane{
+  position:absolute;
+  margin-left: -30px;
+  margin-top: 5px;
+  vertical-align: top;
+   color: #575757;
+}
+
+
+
+
+
+
+
+@media only screen and (min-width:1601px) and (max-width:1680px)
+{
+	.carousel-inner img
+	{
+		width: 100%;
+		height: 680px;
+    }
+	.slidebg .content
+	{
+		position: absolute;
+		bottom: 0;
+		background: rgb(0, 0, 0);
+		background: rgba(0, 0, 0, 0.5);
+		color: #f1f1f1;
+		width: 100%;
+		height: 100%;
+		padding-top: 220px;
+	}
+	.subwebname
+	{
+		font-size: 20px;
+		margin: 0 5px;
+	}
+	.webname
+	{
+		font-size: 60px;
+		font-weight: bold;
+	}
+
+	.aboutcon .img-fluid
+	{
+
+		max-width: 60%;
+		height: auto;
+    }
+
+	.titlesub
+	{
+		font-size: 10px;
+		color: #808080;
+	}
+	.titlemain
+	{
+		font-size: 28px;
+		font-weight: bolder;
+		margin-top: -19px;
+	}
+	.conwedo
+	{
+		border: 1px solid #ededed;
+		background: #fafafa;
+		padding: 65px 0 75px 0;
+	}
+
+	.imgA1
+	{
+		max-width: 95%;
+		position: absolute;
+		top: 30px;
+		left: 1px;
+	}
+	.imgB1
+	{
+		max-width: 95%;
+		position: absolute;
+		top: 170px;
+		left: 190px;
+		z-index: 3;
+	}
+	.conwork
+	{
+		background: white;
+		padding: 65px 0 75px 0;
+	}
+	.paddinggallery
+	{
+		padding: 5px 0 0 0;
+	}
+	.rowinfo
+	{
+		padding: 50px 0 88px 0;
+
+	}
+	.pinfo
+	{
+		color: #444444;
+		font-size: 29px;
+		font-weight: bold;
+	}
+	.contheme
+	{
+		background: #282828;
+		padding: 75px 0 75px 0;
+		color: white;
+		border-bottom: 5px solid #87bd4a;
+	}
+	.tablink .pack
+	{
+		padding: 5px 0 5px 0;
+		font-size: 18px;
+		color: black;
+		font-weight: ;
+	}
+	.btwntext
+	{
+		width: 500px;
+		font-size: 17px;
+		border-radius: 25px;
+		color: white;
+		margin-top: -10px;
+		margin-left: 34%;
+	}
+	.blogrow
+	{
+		padding: 45px 0 65px 0;
+
+	}
+	.phead
+	{
+		color:#444444 ;
+		font-size: 20px;
+		font-weight: bold;
+		padding: 35px 0 0 0;
+	}
+	.conlogo
+	{
+		border: 1px solid #ededed;
+		background: #fafafa;
+		padding: 50px 0 50px 0;
+	}
+	.confluid .col1
+	{
+		width: 25%;
+		background-color: #303030;
+		padding:110px 0 95px 0;
+		padding-right: 50px;
+	}
+	.confluid .col2
+	{
+		background-color: #262626;
+		padding: 85px 0 75px 0;
+		padding-left: 15px;
+
+	}
+}
+
+@media only screen and (min-width:1501px) and (max-width:1600px)
+{
+	.carousel-inner img
+	{
+		width: 100%;
+		height: 680px;
+    }
+	.slidebg .content
+	{
+		position: absolute;
+		bottom: 0;
+		background: rgb(0, 0, 0);
+		background: rgba(0, 0, 0, 0.5);
+		color: #f1f1f1;
+		width: 100%;
+		height: 100%;
+		padding-top: 220px;
+	}
+	.subwebname
+	{
+		font-size: 20px;
+		margin: 0 5px;
+	}
+	.webname
+	{
+		font-size: 60px;
+		font-weight: bold;
+	}
+	.webname
+	{
+		font-size: 60px;
+		font-weight: bold;
+	}
+	.aboutcon .img-fluid
+	{
+
+		max-width: 60%;
+		height: auto;
+    }
+
+	.titlesub
+	{
+		font-size: 10px;
+		color: #808080;
+	}
+	.titlemain
+	{
+		font-size: 28px;
+		font-weight: bolder;
+		margin-top: -19px;
+	}
+	.conwedo
+	{
+		border: 1px solid #ededed;
+		background: #fafafa;
+		padding: 65px 0 75px 0;
+	}
+
+	.imgA1
+	{
+		max-width: 95%;
+		position: absolute;
+		top: 30px;
+		left: 1px;
+	}
+	.imgB1
+	{
+		max-width: 95%;
+		position: absolute;
+		top: 170px;
+		left: 190px;
+		z-index: 3;
+	}
+	.conwork
+	{
+		background: white;
+		padding: 65px 0 75px 0;
+	}
+	.paddinggallery
+	{
+		padding: 5px 0 0 0;
+	}
+	.rowinfo
+	{
+		padding: 50px 0 88px 0;
+
+	}
+	.pinfo
+	{
+		color: #444444;
+		font-size: 29px;
+		font-weight: bold;
+	}
+	.contheme
+	{
+		background: #282828;
+		padding: 75px 0 75px 0;
+		color: white;
+		border-bottom: 5px solid #87bd4a;
+	}
+	.tablink .pack
+	{
+		padding: 5px 0 5px 0;
+		font-size: 18px;
+		color: black;
+		font-weight: ;
+	}
+	.btwntext
+	{
+		width: 500px;
+		font-size: 17px;
+		border-radius: 25px;
+		color: white;
+		margin-top: -10px;
+		margin-left: 34%;
+	}
+	.blogrow
+	{
+		padding: 45px 0 65px 0;
+
+	}
+	.phead
+	{
+		color:#444444 ;
+		font-size: 20px;
+		font-weight: bold;
+		padding: 35px 0 0 0;
+	}
+	.conlogo
+	{
+		border: 1px solid #ededed;
+		background: #fafafa;
+		padding: 50px 0 50px 0;
+	}
+	.confluid .col1
+	{
+		width: 25%;
+		background-color: #303030;
+		padding:110px 0 95px 0;
+		padding-right: 50px;
+	}
+	.confluid .col2
+	{
+		background-color: #262626;
+		padding: 85px 0 75px 0;
+		padding-left: 15px;
+
+	}
+
+}
+
+@media only screen and (min-width:1401px) and (max-width:1500px)
+{
+	.navibar
+	{
+		padding: 20px 0 20px 0;
+    }
+	.navibar .img-fluid
+	{
+		max-width: 100%;
+		height: auto;
+
+	}
+	.slidebg .content
+	{
+		position: absolute;
+		bottom: 0;
+		background: rgb(0, 0, 0);
+		background: rgba(0, 0, 0, 0.5);
+		color: #f1f1f1;
+		width: 100%;
+		height: 100%;
+		padding-top: 210px;
+	}
+	.titlemain
+	{
+		font-size: 28px;
+		font-weight: bolder;
+		margin-top: -19px;
+	}
+	.carousel-inner img
+	{
+		width: 100%;
+		height: 680px;
+    }
+	.aboutcon .img-fluid
+	{
+
+		max-width: 60%;
+		height: auto;
+    }
+	.conwedo
+	{
+		border: 1px solid #ededed;
+		background: #fafafa;
+		padding: 65px 0 75px 0;
+	}
+
+	.imgA1
+	{
+		max-width: 95%;
+		position: absolute;
+		top: 30px;
+		left: 1px;
+	}
+	.imgB1
+	{
+		max-width: 95%;
+		position: absolute;
+		top: 170px;
+		left: 190px;
+		z-index: 3;
+	}
+	.conwork
+	{
+		background: white;
+		padding: 65px 0 75px 0;
+	}
+	.paddinggallery
+	{
+		padding: 5px 0 0 0;
+	}
+	.rowinfo
+	{
+		padding: 50px 0 88px 0;
+
+	}
+	.pinfo
+	{
+		color: #444444;
+		font-size: 29px;
+		font-weight: bold;
+	}
+	.contheme
+	{
+		background: #282828;
+		padding: 75px 0 75px 0;
+		color: white;
+		border-bottom: 5px solid #87bd4a;
+	}
+	.tablink .pack
+	{
+		padding: 5px 0 5px 0;
+		font-size: 18px;
+		color: black;
+		font-weight: ;
+	}
+	.btwntext
+	{
+		width: 500px;
+		font-size: 17px;
+		border-radius: 25px;
+		color: white;
+		margin-top: -10px;
+		margin-left: 33%;
+	}
+	.blogrow
+	{
+		padding: 45px 0 65px 0;
+
+	}
+	.phead
+	{
+		color:#444444 ;
+		font-size: 20px;
+		font-weight: bold;
+		padding: 35px 0 0 0;
+	}
+	.conlogo
+	{
+		border: 1px solid #ededed;
+		background: #fafafa;
+		padding: 50px 0 50px 0;
+	}
+	.confluid .col1
+	{
+		width: 25%;
+		background-color: #303030;
+		padding:110px 0 95px 0;
+		padding-right: 50px;
+	}
+	.confluid .col2
+	{
+		background-color: #262626;
+		padding: 85px 0 75px 0;
+		padding-left: 15px;
+
+	}
+}
+
+@media only screen and (min-width:1301px) and (max-width:1400px)
+{
+	.navibar
+	{
+		padding: 20px 0 20px 0;
+    }
+	.navibar .img-fluid
+	{
+		max-width: 100%;
+		height: auto;
+
+	}
+	.slidebg .content
+	{
+		position: absolute;
+		bottom: 0;
+		background: rgb(0, 0, 0);
+		background: rgba(0, 0, 0, 0.5);
+		color: #f1f1f1;
+		width: 100%;
+		height: 100%;
+		padding-top: 180px;
+	}
+	.subwebname
+	{
+		font-size: 18px;
+		margin: 0 5px;
+	}
+	.webname
+	{
+		font-size: 52px;
+		font-weight: bold;
+	}
+	.textdecore, p
+	{
+		font-size: 14px;
+		line-height: 1.5;
+	}
+	.webptag
+	{
+		margin: 16px 0 30px;
+	}
+	.button1
+	{
+		background-color: white;
+		font-size: 14px;
+		color: #a6d07b;
+		padding: 10px;
+		border-radius: 25px;
+		width: 182px;
+		margin-left: 10px;
+		margin-right: 10px;
+		border: 1px solid #4CAF50;
+	}
+	.carousel-inner img
+	{
+		width: 100%;
+		height: 550px;
+    }
+	.aboutcon .img-fluid
+	{
+
+		max-width: 50%;
+		height: auto;
+    }
+	.titlesub
+	{
+		font-size: 10px;
+		color: #808080;
+	}
+	.titlemain
+	{
+		font-size: 26px;
+		font-weight: bolder;
+		margin-top: -19px;
+	}
+	.conwedo
+	{
+		border: 1px solid #ededed;
+		background: #fafafa;
+		padding: 65px 0 75px 0;
+	}
+
+	.imgA1
+	{
+		max-width: 95%;
+		position: absolute;
+		top: 35px;
+		left: -40px;
+	}
+	.imgB1
+	{
+		max-width: 95%;
+		position: absolute;
+		top: 190px;
+	    left: 163px;
+		z-index: 3;
+	}
+	.conwork
+	{
+		background: white;
+		padding: 65px 0 75px 0;
+	}
+	.paddinggallery
+	{
+		padding: 5px 0 0 0;
+	}
+	.rowinfo
+	{
+		padding: 50px 0 88px 0;
+
+	}
+	.pinfo
+	{
+		color: #444444;
+		font-size: 29px;
+		font-weight: bold;
+	}
+	.contheme
+	{
+		background: #282828;
+		padding: 75px 0 75px 0;
+		color: white;
+		border-bottom: 5px solid #87bd4a;
+	}
+	.tablink .pack
+	{
+		padding: 5px 0 5px 0;
+		font-size: 18px;
+		color: black;
+		font-weight: ;
+	}
+	.btwntext
+	{
+		width: 500px;
+		font-size: 17px;
+		border-radius: 25px;
+		color: white;
+		margin-top: -10px;
+		margin-left: 33%;
+	}
+	.blogrow
+	{
+		padding: 45px 0 65px 0;
+
+	}
+	.phead
+	{
+		color:#444444 ;
+		font-size: 20px;
+		font-weight: bold;
+		padding: 35px 0 0 0;
+	}
+	.conlogo
+	{
+		border: 1px solid #ededed;
+		background: #fafafa;
+		padding: 50px 0 50px 0;
+	}
+	.confluid .col1
+	{
+		width: 25%;
+		background-color: #303030;
+		padding:110px 0 95px 0;
+		padding-right: 50px;
+	}
+	.confluid .col2
+	{
+		background-color: #262626;
+		padding: 85px 0 75px 0;
+		padding-left: 15px;
+
+	}
+}
+
+@media only screen and (min-width:1201px) and (max-width:1300px)
+{
+	.navibar
+	{
+		padding: 20px 0 20px 0;
+    }
+	.navibar .img-fluid
+	{
+		max-width: 100%;
+		height: auto;
+
+	}
+	.slidebg .content
+	{
+		position: absolute;
+		bottom: 0;
+		background: rgb(0, 0, 0);
+		background: rgba(0, 0, 0, 0.5);
+		color: #f1f1f1;
+		width: 100%;
+		height: 100%;
+		padding-top: 180px;
+	}
+	.subwebname
+	{
+		font-size: 14px;
+		margin: 0 5px;
+	}
+	.webname
+	{
+		font-size: 48px;
+		font-weight: bold;
+	}
+	.textdecore, p
+	{
+		font-size: 14px;
+		line-height: 1.5;
+	}
+	.webptag
+	{
+		margin: 16px 0 30px;
+	}
+	.button1
+	{
+		background-color: white;
+		font-size: 14px;
+		color: #a6d07b;
+		padding: 10px;
+		border-radius: 25px;
+		width: 182px;
+		margin-left: 10px;
+		margin-right: 10px;
+		border: 1px solid #4CAF50;
+	}
+	.carousel-inner img
+	{
+		width: 100%;
+		height: 550px;
+    }
+	.aboutcon .img-fluid
+	{
+
+		max-width: 50%;
+		height: auto;
+    }
+	.titlesub
+	{
+		font-size: 10px;
+		color: #808080;
+	}
+	.titlemain
+	{
+		font-size: 26px;
+		font-weight: bolder;
+		margin-top: -19px;
+	}
+	.conwedo
+	{
+		border: 1px solid #ededed;
+		background: #fafafa;
+		padding: 65px 0 75px 0;
+	}
+	.margin1
+	{
+		margin: 0 0 59px;
+	}
+	.ptag
+	{
+		color: #808080;
+		font-size: 13px;
+	}
+	.infohead
+	{
+		color: #444444;
+		font-size: 16px;
+	}
+
+	.imgA1
+	{
+		max-width: 88%;
+		position: absolute;
+		top: 35px;
+		left: 1px;
+	}
+	.imgB1
+	{
+		max-width: 88%;
+		position: absolute;
+		top: 190px;
+		left: 163px;
+		z-index: 3;
+	}
+	.conwork
+	{
+		background: white;
+		padding: 65px 0 75px 0;
+	}
+	.paddinggallery
+	{
+		padding: 5px 0 0 0;
+	}
+	.rowinfo
+	{
+		padding: 50px 0 88px 0;
+
+	}
+	.pinfo
+	{
+		color: #444444;
+		font-size: 29px;
+		font-weight: bold;
+	}
+	.contheme
+	{
+		background: #282828;
+		padding: 75px 0 75px 0;
+		color: white;
+		border-bottom: 5px solid #87bd4a;
+	}
+	.tablink .pack
+	{
+		padding: 5px 0 5px 0;
+		font-size: 18px;
+		color: black;
+		font-weight: ;
+	}
+	.conthemep
+	{
+		font-size: 26px;
+		font-weight: bold;
+	}
+	.btwntext
+	{
+		width: 478px;
+		font-size: 17px;
+		border-radius: 25px;
+		color: white;
+		margin-top: -10px;
+		margin-left: 31%;
+	}
+	.tag-a
+	{
+		background: linear-gradient(to top, white 50%, transparent 50%);
+		background-size: 100% 200%;
+		background-position: top;
+		transition: background-position 0.5s ease-in-out;
+		color: white;
+		background-color: #87bd4a;
+		width: 550px;
+		font-size: 16px;
+		border-radius: 25px;
+		padding: 12px 65px 12px 65px;
+	}
+	.rowteam
+	{
+		padding: 50px 0 40px 0;
+	}
+	.team-name
+	{
+		font-size: 20px;
+	}
+	.team-post
+	{
+		font-size: 12px;
+		margin-top: -15px;
+	}
+	.team-info
+	{
+		font-size: 12px;
+		padding: 10px;
+		margin: 0 0 32px;
+	}
+	.blogrow
+	{
+		padding: 41px 0 55px 0;
+	}
+	.phead
+	{
+		color:#444444 ;
+		font-size: 20px;
+		font-weight: bold;
+		padding: 35px 0 0 0;
+	}
+	.conlogo
+	{
+		border: 1px solid #ededed;
+		background: #fafafa;
+		padding: 35px 0 35px 0;
+	}
+	.confluid .col1
+	{
+		width: 25%;
+		background-color: #303030;
+		padding: 97px 0 136px 0;
+		padding-right: 40px;
+	}
+	.confluid .col2
+	{
+		background-color: #262626;
+		padding:75px 0 65px 0;
+		padding-left: 15px;
+
+	}
+}
+
+@media only screen and (min-width:1000px) and (max-width:1200px)
+{
+
+	.navibar
+	{
+		padding: 20px 0 20px 0;
+    }
+	.navibar .img-fluid
+	{
+		max-width: 100%;
+		height: auto;
+
+	}
+	.slidebg .content
+	{
+		position: absolute;
+		bottom: 0;
+		background: rgb(0, 0, 0);
+		background: rgba(0, 0, 0, 0.5);
+		color: #f1f1f1;
+		width: 100%;
+		height: 100%;
+		padding-top: 125px;
+	}
+	.subwebname
+	{
+		font-size: 14px;
+		margin: 0 5px;
+	}
+	.webname
+	{
+		font-size: 48px;
+		font-weight: bold;
+	}
+	.textdecore, p
+	{
+		font-size: 13px;
+		line-height: 1.5;
+	}
+	.webptag
+	{
+		margin: 16px 0 30px;
+	}
+	.button1
+	{
+		background-color: white;
+		font-size: 12px;
+		color: #a6d07b;
+		padding: 9px;
+		border-radius: 25px;
+		width: 165px;
+		margin-left: 5px;
+		margin-right: 5px;
+		border: 1px solid #4CAF50;
+	}
+	.carousel-inner img
+	{
+		width: 100%;
+		height: 500px;
+    }
+	.aboutcon .img-fluid
+	{
+
+		max-width: 50%;
+		height: auto;
+    }
+	.titlesub
+	{
+		font-size: 10px;
+		color: #808080;
+	}
+	.titlemain
+	{
+		font-size: 22px;
+		font-weight: bolder;
+		margin-top: -19px;
+	}
+	.conwedo
+	{
+		border: 1px solid #ededed;
+		background: #fafafa;
+		padding: 65px 0 75px 0;
+	}
+	.margin1
+	{
+		margin: 0 0 59px;
+	}
+	.ptag
+	{
+		color: #808080;
+		font-size: 12px;
+	}
+	.infohead
+	{
+		color: #444444;
+		font-size: 16px;
+	}
+
+	.imgA1
+	{
+		max-width: 88%;
+		position: absolute;
+		top: 35px;
+		left: 1px;
+	}
+	.imgB1
+	{
+		max-width: 88%;
+		position: absolute;
+		top: 190px;
+		left: 163px;
+		z-index: 3;
+	}
+	.conwork
+	{
+		background: white;
+		padding: 50px 0 60px 0;
+	}
+	.navigation li a
+	{
+		color: #575757;
+		font-weight: ;
+		text-decoration: none;
+		padding: 0 5px;
+		font-size: 12px;
+	}
+	.paddinggallery
+	{
+		padding: 0px 0 0 0;
+	}
+	.rowinfo
+	{
+		padding: 40px 0 70px 0;
+
+	}
+	.pinfo
+	{
+		color: #444444;
+		font-size: 24px;
+		font-weight: bold;
+	}
+
+	.tablink .pack
+	{
+		padding: 2px 0 2px 0;
+		font-size: 16px;
+		color: black;
+		font-weight: ;
+	}
+	.contheme
+	{
+		background: #282828;
+		padding: 65px 0 65px 0;
+		color: white;
+		border-bottom: 5px solid #87bd4a;
+	}
+	.conthemep
+	{
+		font-size: 24px;
+		font-weight: bold;
+	}
+	.btwntext
+	{
+		width: 478px;
+		font-size: 17px;
+		border-radius: 25px;
+		color: white;
+		margin-top: -10px;
+		margin-left: 28%;
+	}
+	.tag-a
+	{
+		background: linear-gradient(to top, white 50%, transparent 50%);
+		background-size: 100% 200%;
+		background-position: top;
+		transition: background-position 0.5s ease-in-out;
+		color: white;
+		background-color: #87bd4a;
+		width: 550px;
+		font-size: 14px;
+		border-radius: 25px;
+		padding:10px 55px 10px 56px;
+	}
+	.conteam
+	{
+		padding: 65px 0 40px 0;
+	}
+	.rowteam
+	{
+		padding: 50px 0 40px 0;
+	}
+	.team-name
+	{
+		font-size: 20px;
+	}
+	.team-post
+	{
+		font-size: 12px;
+		margin-top: -15px;
+	}
+	.team-info
+	{
+		font-size: 12px;
+		padding: 10px;
+		margin: 0 0 32px;
+	}
+	.blogrow
+	{
+		padding: 41px 0 55px 0;
+	}
+	.phead
+	{
+		color:#444444 ;
+		font-size: 20px;
+		font-weight: bold;
+		padding: 35px 0 0 0;
+	}
+	.conlogo
+	{
+		border: 1px solid #ededed;
+		background: #fafafa;
+		padding: 35px 0 35px 0;
+	}
+	.ftitle
+	{
+		color: #6b6b6b;
+		font-size: 15px;
+		font-weight: bold;
+		margin-top: -19px;
+	}
+	.confluid .col1
+	{
+		width: 25%;
+		background-color: #303030;
+		padding: 97px 0 136px 0;
+		padding-right: 40px;
+	}
+	.confluid .col2
+	{
+		background-color: #262626;
+		padding:65px 0 50px 0;
+		padding-left: 15px;
+
+	}
+}
+
+@media only screen and (min-width:701px) and (max-width:999px)
+{
+	.navibar
+	{
+		padding: 15px 0 15px 0;
+    }
+	.navbar-nav
+	{
+		margin-left: 50px;
+	}
+	.navibar .img-fluid
+	{
+		max-width: 100%;
+		height: auto;
+
+	}
+	.slidebg .content
+	{
+		position: absolute;
+		bottom: 0;
+		background: rgb(0, 0, 0);
+		background: rgba(0, 0, 0, 0.5);
+		color: #f1f1f1;
+		width: 100%;
+		height: 100%;
+		padding-top: 100px;
+	}
+	.subwebname
+	{
+		font-size: 13px;
+		margin: 0 5px;
+	}
+	.webname
+	{
+		font-size: 40px;
+		font-weight: bold;
+	}
+	.textdecore, p
+	{
+		font-size: 12px;
+		line-height: 1.5;
+	}
+	.webptag
+	{
+		margin: 14px 0 30px;
+	}
+	.button1
+	{
+		background-color: white;
+		font-size: 12px;
+		color: #a6d07b;
+		padding: 9px;
+		border-radius: 25px;
+		width: 145px;
+		margin-left: 5px;
+		margin-right: 5px;
+		border: 1px solid #4CAF50;
+	}
+	.carousel-inner img
+	{
+		width: 100%;
+		height: 400px;
+    }
+	.aboutcon
+	{
+		background: white;
+		padding: 35px 0 35px 0;
+	}
+	.aboutcol
+	{
+		padding: 5px;
+	}
+	.aboutcon .img-fluid
+	{
+		max-width: 70%;
+		height: auto;
+		margin-left: 50px;
+    }
+	.titlesub
+	{
+		font-size: 10px;
+		color: #808080;
+	}
+	.titlemain
+	{
+		font-size: 22px;
+		font-weight: bolder;
+		margin-top: -19px;
+	}
+	.conwedo
+	{
+		border: 1px solid #ededed;
+		background: #fafafa;
+		padding: 50px 0 60px 0;
+	}
+	.margin1
+	{
+		margin: 0 0 45px;
+	}
+	.ptag
+	{
+		color: #808080;
+		font-size: 12px;
+	}
+	.infohead
+	{
+		color: #444444;
+		font-size: 16px;
+	}
+	.infohead
+	{
+		color: #444444;
+		font-size: 14px;
+	}
+	.imgA1
+	{
+		max-width: 88%;
+		position: absolute;
+		top: 35px;
+		left: 1px;
+	}
+	.imgB1
+	{
+		max-width: 88%;
+		position: absolute;
+		top: 190px;
+		left: 163px;
+		z-index: 3;
+	}
+	.conwork
+	{
+		background: white;
+		padding: 50px 0 60px 0;
+	}
+	.navigation li a
+	{
+		color: #575757;
+		font-weight: ;
+		text-decoration: none;
+		padding: 0 5px;
+		font-size: 12px;
+	}
+	.paddinggallery
+	{
+		padding: 0px 0 0 0;
+	}
+	.rowinfo
+	{
+		padding: 30px 0 55px 0;
+
+	}
+	.pinfo
+	{
+		color: #444444;
+		font-size: 22px;
+		font-weight: bold;
+	}
+
+	.tablink .pack
+	{
+		padding: 0px 0 0px 0;
+		font-size: 15px;
+		color: black;
+		font-weight: ;
+	}
+	.contheme
+	{
+		background: #282828;
+		padding: 50px 0 50px 0;
+		color: white;
+		border-bottom: 5px solid #87bd4a;
+	}
+	.conthemep
+	{
+		font-size: 22px;
+		font-weight: bold;
+	}
+	.btwntext
+	{
+		width: 478px;
+		font-size: 17px;
+		border-radius: 25px;
+		color: white;
+		margin-top: -10px;
+		margin-left: 20%;
+	}
+	.tag-a
+	{
+		background: linear-gradient(to top, white 50%, transparent 50%);
+		background-size: 100% 200%;
+		background-position: top;
+		transition: background-position 0.5s ease-in-out;
+		color: white;
+		background-color: #87bd4a;
+		width: 550px;
+		font-size: 14px;
+		border-radius: 25px;
+		padding:10px 55px 10px 56px;
+	}
+	.conteam
+	{
+		padding: 65px 0 40px 0;
+	}
+	.rowteam
+	{
+		padding: 30px 0 40px 0;
+	}
+	.team-profile
+	{
+		background: #464646;
+		padding-top:50px;
+		color: white;
+		margin: 5px 35px 0;
+	}
+	.team-name
+	{
+		font-size: 20px;
+	}
+	.team-post
+	{
+		font-size: 12px;
+		margin-top: -15px;
+	}
+	.team-info
+	{
+		font-size: 12px;
+		padding: 10px;
+		margin: 0 0 32px;
+	}
+	.blogrow
+	{
+		padding: 41px 0 55px 0;
+	}
+	.phead
+	{
+		color:#444444 ;
+		font-size: 20px;
+		font-weight: bold;
+		padding: 35px 0 0 0;
+	}
+	.conlogo
+	{
+		border: 1px solid #ededed;
+		background: #fafafa;
+		padding: 35px 0 35px 0;
+	}
+	.ftitle
+	{
+		color: #6b6b6b;
+		font-size: 15px;
+		font-weight: bold;
+		margin-top: -19px;
+	}
+	.confluid .col1
+	{
+		width: 25%;
+		background-color: #303030;
+		padding: 97px 0 136px 0;
+		padding-right: 40px;
+	}
+	.confluid .col2
+	{
+		background-color: #262626;
+		padding:65px 0 50px 0;
+		padding-left: 15px;
+
+	}
+}
+
+
+@media only screen and (min-width:0px) and (max-width:500px)
+{
+	.navibar .img-fluid
+	{
+		max-width: 74%;
+		height: auto;
+
+	}
+	.carousel-inner img
+	{
+		width: 100%;
+		height: 350px;
+    }
+	.webname {
+		font-size: 34px;
+		margin-top: -5px;
+	}
+	.subwebname
+	{
+		font-size: 12px;
+		margin: 0 39px;
+	}
+	.webptag
+	{
+		margin: 16px 0 43px;
+	}
+	.navibar, a
+	{
+		text-decoration: none;
+		color: black;
+		font-weight: bold;
+		font-size: 12px;
+	}
+	.navibar
+	{
+		padding: 10px 0;
+	}
+	.navbar-nav
+	{
+    margin-left: 0;
+    margin-right: ;
+	}
+
+	.carousel-inner .img
+	{
+		width: 100%;
+		height: 550px;
+    }
+	.aboutcon
+	{
+    background: white;
+    padding: 25px 0;
+   }
+	.aboutcon .img-fluid {
+
+    max-width: 50%;
+    height: auto;
+
+    }
+	 .button1 {
+    background-color: white;
+    font-size: 12px;
+    color: #a6d07b;
+    padding: 10px;
+    border-radius: 25px;
+    width: 125px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 1px solid #4CAF50;
+}
+.slidebg .content {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    height: 100%;
+    padding-top:50px;
+}
+.carousel-indicators {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 34;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: center;
+    padding-left: 0;
+    margin-right: 45%;
+    margin-left: 45%;
+    list-style: none;
+}
+
+	.imgA1
+	{
+		position:absolute;
+		top: 48px;
+		left: 90px;
+		z-index: 1;
+		width: 140px;
+		height: 180px;
+	}
+	.imgB1
+	{
+		position:absolute;
+		top: 75px;
+		left: 145px;
+		z-index: 3;
+		width: 140px;
+		height: 180px;
+	}
+	.conlogo
+	{
+		border: 1px solid #ededed;
+		background: #fafafa;
+		padding-top: 25px;
+		padding-bottom: 25px;
+	}
+
+	.conwedo
+	{
+		border: 1px solid #ededed;
+		background: #fafafa;
+		padding: 24px 0;
+	}
+	.titlemain
+	{
+		font-size: 24px;
+		font-weight: bolder;
+    }
+	.ptag
+	{
+		font-size: 14px;
+    }
+   .info, h5
+    {
+	   font-size: 14px;
+    }
+   .info, p
+    {
+	   font-size: 12px;
+    }
+
+
+
+
+
+
+
+
+	.colsize
+	{
+		width: 100%;
+		padding: 5px;
+	}
+
+
+	.btwntext
+	{
+		text-align: center;
+		width: 361px;
+		border-radius: 25px;
+		color: white;
+		padding: 5px 0 5px 0;
+		font-size: 14px;
+	}
+
+	.contheme
+	{
+		background: #282828;
+		padding: 30px 0 30px 0;
+		color: white;
+		border-bottom: 3px solid #87bd4a;
+	}
+	.conthemep
+	{
+		font-size: 18px;
+		font-weight: bold;
+	}
+
+
+	.btwntext
+	{
+		text-align: center;
+		width: 285px;
+		border-radius: 25px;
+		color: white;
+		padding: 2px 0 2px 0;
+		font-size: 1px;
+		margin-top: -10px;
+		margin-left: 12%;
+	}
+
+	.tag-a
+	{
+    background: linear-gradient(to top, white 50%, transparent 50%);
+    background-size: 100% 200%;
+    background-position: top;
+    transition: background-position 0.5s ease-in-out;
+    color: white;
+    background-color: #87bd4a;
+    width: 550px;
+    font-size: 12px;
+    border-radius: 25px;
+    padding: 10px 30px 10px 30px;
+}
+
+
+
+
+
+
+
+
+
+
+	.contheme, h1 {
+    font-size: 18px;
+	}
+	.conteam {
+    padding-top: 45px;
+    padding-bottom: 45px;
+	}
+
+	.conteam, h4 {
+    font-size: 16px;
+	}
+	.rowteam {
+		padding-top: 40px;
+		padding-bottom: 40px;
+	}
+
+
+
+
+	.tablink
+	{
+		background-color: white;
+
+
+		font-weight: bold;
+		width: 100%;
+		outline: ;
+		cursor: pointer;
+		padding: 5px;
+	}
+	.tablinkp
+{
+	 color: #444444;
+	  font-size: 12px;
+
+}
+	.rowinfo
+	{
+		padding-top: 24px;
+		padding-bottom: 25px;
+	}
+	.confluid .col1
+	{
+    width: 25%;
+    background-color: #303030;
+    padding:70px 100px 70px 0;
+	}
+	.confluid .col2
+	{
+	background-color: #262626;
+    padding: 43px 0 0 43px;
+	}
+	.ftitle {
+    color: #6b6b6b;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: -19px;
+	}
+
+
+
+
+
+
+
+
+}
